@@ -1,143 +1,143 @@
 [[libtakum]]
 arch = "aarch64"
-git-tree-sha1 = "a9a9125ff5f20373960e766569f2aaaf421e75fd"
+git-tree-sha1 = "18ace1313038d67258834d8826644cdad6eac7b0"
 os = "macos"
 
     [[libtakum.download]]
-    sha256 = "1a74589e0c1a58106966154fdb5c6a72009541b904f0a24530ea47d7baa64d86"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "93e7444f55e07f6bfe388eb040136faf0a3c162e6009aaa092b83fd3e3fa0c1e"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.aarch64-apple-darwin.tar.gz"
 [[libtakum]]
 arch = "aarch64"
-git-tree-sha1 = "22a79f6e77b2e4e889a38c3bb64b07ac302282bf"
+git-tree-sha1 = "00d4d7afbde4929cabcb3bdd8a9282addfc546de"
 libc = "glibc"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "df542b0e69026f511c2e0882214f78e03c6b1eae67690520c5b0c708c87f4210"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "fc3441846966c9cd82d7de628eb2508492845ea0c17527347ba1b761e8c84e75"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.aarch64-linux-gnu.tar.gz"
 [[libtakum]]
 arch = "aarch64"
-git-tree-sha1 = "855e1a613ff333cb0fd8a323b194f44498edee0a"
+git-tree-sha1 = "34ea51740996f8b2d5d145301d6e1ff940856e65"
 libc = "musl"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "020dac371b7eb32f5e2d56fc05eeb71e7cba1b1cab381d5933cf560fbf089101"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.aarch64-linux-musl.tar.gz"
+    sha256 = "6e8748711244b11faaea24a5b76834eeb65da39717d0d8cb7a48d64273513f4b"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.aarch64-linux-musl.tar.gz"
 [[libtakum]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "491c8e5aea1aefd86d4349ca1823b6ab4c372dad"
+git-tree-sha1 = "e6e077ee32f82aeb7f09a601ad848696fd61b9b1"
 libc = "glibc"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "148f8ada341ede84e536822dc3ab89ce70012891e106fefe155d5643e9a195de"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9c99bbde2be6b062aa47e4a6f17689961e95b2d466faf71c986167e856bc1bac"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.armv6l-linux-gnueabihf.tar.gz"
 [[libtakum]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "657ceca3dafa1729bf4f006a699cd9c155e91134"
+git-tree-sha1 = "d31b5fa6caa6aecc91aee02baaaf3fb3b82dfce1"
 libc = "musl"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "a62e9f4c4e8f8c7c0986a93b312e48e950c7ba577fbecf8588bc744596a09415"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "74516e86ff8ca662d8472cb924919787932fed9eef96a9cf986734b5392aca5f"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.armv6l-linux-musleabihf.tar.gz"
 [[libtakum]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "adb49dcfade5514ed8cd53ef1de6747ab80e8209"
+git-tree-sha1 = "c66b08dda73dadfb5ee1b594323d9aba0756c732"
 libc = "glibc"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "cf48a6898cb1302d6b29a9203f45744afc803f51386def663fd45325cb2abcdf"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ae8c28dcc6e1d7ae358453a4ada0a3d37eaf8905636b2ea91bae9d421234e944"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.armv7l-linux-gnueabihf.tar.gz"
 [[libtakum]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5b8a4696ea0170c3765b46fe96d9e63e52120447"
+git-tree-sha1 = "127e6b42f6bc6e2d2c68065ee433f2a5eb6af314"
 libc = "musl"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "228b63ea41eaf0f33f032fd698a02940b3be4a27b431b86a21d408f8a1b03e97"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "8a9f5e7f2d30b280b7affba798bd942b923ae982621f84896963ddf2e1e72919"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.armv7l-linux-musleabihf.tar.gz"
 [[libtakum]]
 arch = "i686"
-git-tree-sha1 = "7a28d1a005cfeff960e82d40b62a338db47fe1ad"
+git-tree-sha1 = "4d7c44cb7e655f4289182ef856a0df3954b11942"
 libc = "glibc"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "bee411dcc2e720b39edfb9fabc4f649989982ae2dd285cf7baacf616929803f9"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.i686-linux-gnu.tar.gz"
+    sha256 = "e2bcd3800aa3f166c9bbeb2d06787b4148c5a7e480560482dd1da3f3c9122a2b"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.i686-linux-gnu.tar.gz"
 [[libtakum]]
 arch = "i686"
-git-tree-sha1 = "229dd21629dc837059876cdfcf00f539e0587d82"
+git-tree-sha1 = "ee4867def87af2435f6e7fc8aab7a6c41b2895b2"
 libc = "musl"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "d9c157d72a293c0b63ccecf3b833782429551da778af8fcf482e4e69007f8139"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.i686-linux-musl.tar.gz"
+    sha256 = "87ce569577ffcee71e2a7ac677649469004fe271400a93bb3491e57c903d74b0"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.i686-linux-musl.tar.gz"
 [[libtakum]]
 arch = "i686"
-git-tree-sha1 = "1cc9b6f3498c4f40049bd62e39b0341b127a75c4"
+git-tree-sha1 = "8b90a68825616ed131973eec31b7bfde4a445618"
 os = "windows"
 
     [[libtakum.download]]
-    sha256 = "33fca21af5433d4e86386ca3712f8980d9013bcc1c1fc962b8f7fa346d0c074f"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.i686-w64-mingw32.tar.gz"
+    sha256 = "b53e5b86d8f1b750569e3d6d4d0d056ff6659aab7a38039c2698d000ae6955bc"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.i686-w64-mingw32.tar.gz"
 [[libtakum]]
 arch = "powerpc64le"
-git-tree-sha1 = "e8d62dc214693cc3354e6995edaa8e6dbf453c2d"
+git-tree-sha1 = "1eafbdeba48938b5d0e583f28290f2000e93b6e3"
 libc = "glibc"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "6b130ecd5acb824b29803b65c1b89c6080d6699593fb525ccf92b99a8aced091"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "e22f5317dc9e296a1bc9fa73923f50d8f923562e96dcbca022f8513ffdcc829a"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.powerpc64le-linux-gnu.tar.gz"
 [[libtakum]]
 arch = "x86_64"
-git-tree-sha1 = "4c598f0b7d2fbabcd9b6f23fbf615c4b7d640e88"
+git-tree-sha1 = "af094c8d12dd9a90e96a43496fc62044e10f7ba5"
 os = "macos"
 
     [[libtakum.download]]
-    sha256 = "c9b6b08e019017414290cdd751ab916d78b90dba7615c0a17be5ac9f8716207d"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "fb7af5d476e72c08dccb8adc90f09667e09e22ce6af083c4effd6aa6f04acbef"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.x86_64-apple-darwin.tar.gz"
 [[libtakum]]
 arch = "x86_64"
-git-tree-sha1 = "854bf0272ac6e1604030296921dd15cf603877dd"
+git-tree-sha1 = "2012fb907cbf8c369db553b9da98969ffda30b2e"
 libc = "glibc"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "65b251c3233d4f714d4016d5c6abfc85048b9fa9a20536776f8c9ae0bcbf2041"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "b36b9fb2ab37565acc845c2416ad2ef5869c8abad9b353500e23a2e850b9b7cc"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.x86_64-linux-gnu.tar.gz"
 [[libtakum]]
 arch = "x86_64"
-git-tree-sha1 = "b7577536b971cea0d087ab5ec4d59a9c7cb312a1"
+git-tree-sha1 = "dea24eb3694940dd3a383f8f99ab95a8679d3898"
 libc = "musl"
 os = "linux"
 
     [[libtakum.download]]
-    sha256 = "c73e7bed976d98526a8859fad37740ec415497953ce6ea5bc150bc2f51369aa1"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.x86_64-linux-musl.tar.gz"
+    sha256 = "67cd2de5a679fc9ab62001f445f8ed7ad6eb0dd27ab5259ff964c318357cdc57"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.x86_64-linux-musl.tar.gz"
 [[libtakum]]
 arch = "x86_64"
-git-tree-sha1 = "88d39ab54a226ffbbfcd2d98cf8bb85afaad9dca"
+git-tree-sha1 = "fd5bc22173426eb4e7237b2fb13f226a9cf3a156"
 os = "freebsd"
 
     [[libtakum.download]]
-    sha256 = "474853ec0b3343b001210d6c4c8209f5dd84289add3581c085096b2faed07508"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "79746172c4abf90415155287dabd8e97b3027d7fb154b9cc4cb3fcdfbadb12a9"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.x86_64-unknown-freebsd.tar.gz"
 [[libtakum]]
 arch = "x86_64"
-git-tree-sha1 = "aa4d17edc78501eb9b10d5d19593f05e10b7fd25"
+git-tree-sha1 = "72a350394f1f33af18873c644242139a4a1ff46b"
 os = "windows"
 
     [[libtakum.download]]
-    sha256 = "8ac43e9eeab5d4706a725862e7c5db418b48f1f67828c2b7a2bceb73bb4392e9"
-    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.0+0/libtakum.v0.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "dd0e8de0054985ed789b09d4a044c03fca99a706c132c9c836bb939c9f15128c"
+    url = "https://github.com/JuliaBinaryWrappers/libtakum_jll.jl/releases/download/libtakum-v0.1.1+0/libtakum.v0.1.1.x86_64-w64-mingw32.tar.gz"
