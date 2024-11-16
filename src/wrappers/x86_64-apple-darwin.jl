@@ -2,12 +2,12 @@
 export libtakum
 
 JLLWrappers.@generate_wrapper_header("libtakum")
-JLLWrappers.@declare_library_product(libtakum, "@rpath/libtakum.0.dylib")
+JLLWrappers.@declare_library_product(libtakum, "@rpath/libtakum.1.dylib")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libtakum,
-        "lib/libtakum.0.dylib",
+        "lib/libtakum.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
